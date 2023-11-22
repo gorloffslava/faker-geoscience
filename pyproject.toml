@@ -18,7 +18,7 @@ classifiers = [
   "License :: OSI Approved :: GNU Affero General Public License v3",
 ]
 license = {text = "AGPL-3.0 license"}
-authors = [{name = "tplessas", emali = "teopless@gmail.com"}, {name = "e-panourgia"}]
+authors = [{name = "tplessas", email = "teopless@gmail.com"}, {name = "e-panourgia"}]
 dependencies = [
     "faker"
 ]
